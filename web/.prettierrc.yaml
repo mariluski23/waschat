@@ -1,8 +1,8 @@
 # Default config
 tabWidth: 4
-endOfLine: crlf
-singleQuote: true
-printWidth: 100000
+endOfLine: lf
+singleQuote: false
+printWidth: 80
 trailingComma: none
 bracketSameLine: true
 quoteProps: consistent
